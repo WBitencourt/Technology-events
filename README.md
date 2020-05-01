@@ -1,13 +1,14 @@
 # React Native course studied at Udemy 
 
-Exercise and test repository. 
+- Exercise and test repository. 
 
-Reflesh App 01/05/2020 16:35 (DD/MM/YYYY HH:MM)
+- Date format (DD/MM/YYYY HH:MM)
 
-Add project '@React-navigation/drawer' in menu.js
-Make any tests, learn about Get Started navagation at https://reactnavigation.org/docs/getting-started/ 
+- Reflesh App 01/05/2020 16:35 
 
-Reflesh App XX/XX/XXXX YY:YY (DD/MM/YYYY HH:MM)
+  Add project '@React-navigation/drawer' in menu.js
+  Make any tests, learn about Get Started navagation at https://reactnavigation.org/docs/getting-started/ 
 
-Waiting another comments.
+- Reflesh App XX/XX/XXXX YY:YY
 
+  Waiting another comments.
