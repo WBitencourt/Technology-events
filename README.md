@@ -9,7 +9,7 @@
   Add project '@React-navigation/drawer' in menu.js
   Make any tests, learn about Get Started navagation at https://reactnavigation.org/docs/getting-started/ 
   
-- Reflesh App 16/05/2020 16:35
+- Reflesh App 16/05/2020 14:28
 
   Add project the library TouchableHighlight. Then I learned to add numbers and clean them using a button... the property used were         onPress and onLoadPress.
   
