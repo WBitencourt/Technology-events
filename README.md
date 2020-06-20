@@ -19,6 +19,10 @@
 
   Add project the library prop-types, where we can validate properties of the componentes, set the parameter is required and default       values when not use the parameters are sent to the component.
 
+- Reflesh App 20/06/2020 15:38
+
+  Add to project Events, and control Events, flexbox and FlatList.
+
 - Reflesh App XX/XX/XXXX YY:YY
 
   Waiting another comments.
