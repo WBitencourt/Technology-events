@@ -10,4 +10,13 @@ export default StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
   },
+  input: {
+    height: 70,
+    fontSize: 40,
+    borderColor: 'black',
+    borderWidth: 1,
+  },
+  fonte40: {
+    fontSize: 40,
+  },
 });

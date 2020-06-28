@@ -10,10 +10,12 @@ const ValidarProps = props => (
   </Text>
 );
 
+// Se nao passar valor pro label, o mesmo por default recebe "Ano:"
 ValidarProps.defaultProps = {
   label: 'Ano: ',
 };
 
+// Define que o valor numerico é requerido.
 ValidarProps.propTypes = {
   ano: PropTypes.number.isRequired,
 };
