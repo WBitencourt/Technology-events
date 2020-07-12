@@ -23,6 +23,12 @@
 
   Add to project Events, and control Events, flexbox and FlatList.
 
+- Reflesh App 12/07/2020 16:21
+
+  Finished the calculator like a Apple calculator design.
+  
+  Start project mined field.That is all the rules of real game, with design classic game. 
+
 - Reflesh App XX/XX/XXXX YY:YY
 
   Waiting another comments.
