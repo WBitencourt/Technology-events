@@ -43,6 +43,8 @@ export default props => {
   }
   return (
     <View>
+      {/* <TouchableHighlight onPress={props.onClick} /> */}
+      {/* Dessa maneira abaixo, é possivel reaproveitar o valor dentro do label para passar como parametro*/}
       <TouchableHighlight onPress={() => props.onClick(props.label)}>
         <Text style={stylesButton}>{props.label}</Text>
       </TouchableHighlight>
