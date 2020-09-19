@@ -29,6 +29,10 @@
   
   Start project mined field.That is all the rules of real game, with design classic game. 
 
+- Reflesh App 19/09/2020 14:10
+
+  Finished the classic mines game, that has a level (easy, medium and hard dificult) and all rules of the original game. That experience is great, because i can learn more about   React, how this works, basic errors, pattern of the application and similars with another languages and framework. I need to practice more and I believe as soon I will can to   create my owner app. Next step is learn about react navagation.
+
 - Reflesh App XX/XX/XXXX YY:YY
 
   Waiting another comments.
