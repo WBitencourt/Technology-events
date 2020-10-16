@@ -32,7 +32,11 @@
 - Reflesh App 19/09/2020 14:10
 
   Finished the classic mines game, that has a level (easy, medium and hard dificult) and all rules of the original game. That experience is great, because i can learn more about   React, how this works, basic errors, pattern of the application and similars with another languages and framework. I need to practice more and I believe as soon I will can to   create my owner app. Next step is learn about react navagation.
+  
+  - Reflesh App 16/10/2020 19:40
 
-- Reflesh App XX/XX/XXXX YY:YY
+  Work done about the navigation in react native. It show me some ways to navigation frame by frame... First i learned how to add libary at project and how to use components like StackNavigation and Drawer Navigation, moreover how to add icon on the tab instead label.
+
+- Reflesh App DD/MM/YYYY HH:mm
 
   Waiting another comments.
