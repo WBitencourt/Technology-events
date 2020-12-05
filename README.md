@@ -33,7 +33,7 @@
 
   Finished the classic mines game, that has a level (easy, medium and hard dificult) and all rules of the original game. That experience is great, because i can learn more about   React, how this works, basic errors, pattern of the application and similars with another languages and framework. I need to practice more and I believe as soon I will can to   create my owner app. Next step is learn about react navagation.
   
-  - Reflesh App 16/10/2020 19:40
+- Reflesh App 16/10/2020 19:40
 
   Work done about the navigation in react native. It show me some ways to navigation frame by frame... First i learned how to add libary at project and how to use components like StackNavigation and Drawer Navigation, moreover how to add icon on the tab instead label.
 
@@ -41,6 +41,10 @@
 
   App task is done. I liked the experience in that projec, I learn more about CRUD, function sended by props that will be called inside son but executed inside father, callbacks at setState and the time life of react native, is the similar with asp.net aspx, it is the framework that I work currently. But with what I've learned so far I believe I can do something myself, next step is learn about create my own backend and step 2, do the same at Firebase (cloud backend).
   
-  - Reflesh App DD/MM/YYYY HH:mm
+- Reflesh App 05/12/2020 16:03
+
+  Introduction to API using javascript, how it work and many way to do method GET, POST... Using dependency like express, body parser, nodemon, pm2 and DEV dependency nodemon. How to start project at local developer or production and another ways to do that can be see at index.js 
+  
+- Reflesh App DD/MM/YYYY HH:mm
 
   Waiting another comments.
