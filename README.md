@@ -37,6 +37,10 @@
 
   Work done about the navigation in react native. It show me some ways to navigation frame by frame... First i learned how to add libary at project and how to use components like StackNavigation and Drawer Navigation, moreover how to add icon on the tab instead label.
 
-- Reflesh App DD/MM/YYYY HH:mm
+- Reflesh App 01/12/2020 19:52
+
+  App task is done. I liked the experience in that projec, I learn more about CRUD, function sended by props that will be called inside son but executed inside father, callbacks at setState and the time life of react native, is the similar with asp.net aspx, it is the framework that I work currently. But with what I've learned so far I believe I can do something myself, next step is learn about create my own backend and step 2, do the same at Firebase (cloud backend).
+  
+  - Reflesh App DD/MM/YYYY HH:mm
 
   Waiting another comments.
