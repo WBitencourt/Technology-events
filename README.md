@@ -45,6 +45,10 @@
 
   Introduction to API using javascript, how it work and many way to do method GET, POST... Using dependency like express, body parser, nodemon, pm2 and DEV dependency nodemon. How to start project at local developer or production and another ways to do that can be see at index.js 
   
-- Reflesh App DD/MM/YYYY HH:mm
+- Reflesh App 29/05/2021 14:25
+
+  In that reflesh, I learned how to create a API REST in JavaScript with Express, using some tecnology and method to authenticate a user that new to me. I had difficulties with   the passport, some things changed in the way of calling the authenticate and the course was out of date, with some research I was able to identify the error and correct it.     The documentation used to fix it: http://www.passportjs.org/packages/passport-jwt/
+  
+  - Reflesh App DD/MM/YYYY HH:mm
 
   Waiting another comments.
