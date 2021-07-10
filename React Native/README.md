@@ -1,4 +1,4 @@
-# React Native Course, studied at Udemy 
+# React Native Course, studied at Udemy 📱
 
 - Exercise and test repository. 
 
