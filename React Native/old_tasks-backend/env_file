@@ -1,5 +1,0 @@
-//Renomear para ..env
-
-module.exports = {
-  authSecret: '883360465DF7A0BEF51545E79B07147F' //Chave de autenticacao(SHA1) gerada aleatoria, essa permite gerar o token do usario ao se logar
-}
