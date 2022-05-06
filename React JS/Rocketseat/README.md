@@ -1,4 +1,4 @@
-# Reac.js Course, studied at Rocketseat 🚀
+# Reac.js course, studied at Rocketseat 🚀
 
 - Date format (DD/MM/YYYY HH:MM)
 
