@@ -1,4 +1,4 @@
-# React Native Course, studied at Rocketseat 🚀
+# Node.js course, studied at Rocketseat 🚀
 
 - Date format (DD/MM/YYYY HH:MM)
 
