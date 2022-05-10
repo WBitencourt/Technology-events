@@ -10,7 +10,7 @@ export function AppRoutes() {
   return (
     <Routes>      
       <Route path="/" element={<Navbar />}>
-        <Route path="videos" element={<Videos />} />
+        <Route index element={<Videos />} />
         <Route path="desafios" element={<Desafios />} />
         <Route path="cronograma" element={<Cronograma />} />
         <Route path="feedbacks" element={<Feedbacks />} />
