@@ -16,7 +16,7 @@ export function Navbar() {
           <div>
             <ul className="lg:flex flex-col mt-4 lg:flex-row lg:space-x-8 lg:mt-0 lg:text-sm lg:font-medium">
               <li>
-                <CustomLink to='/videos'>Vídeos</CustomLink>
+                <CustomLink to='/'>Vídeos</CustomLink>
               </li>
               <li>
                 <CustomLink to='/desafios'>Desafios</CustomLink>
