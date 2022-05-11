@@ -9,14 +9,13 @@
 ![Capa](https://user-images.githubusercontent.com/51727640/167922274-e66786a7-b385-4027-9c1e-0fe1b8131a9f.svg)
 
 <p style="display: flex; widht: 100vw; height:auto;">
-  <img src="https://user-images.githubusercontent.com/51727640/167925364-40b40258-414e-4b78-986e-b14dcc103450.svg" />
-  <img src="https://user-images.githubusercontent.com/51727640/167925361-a98fcf5a-c561-4d52-a406-2604b33fc348.svg" />
-  <img src="https://user-images.githubusercontent.com/51727640/167925366-cc2b4dc7-c2d7-4b80-8e58-0e4fa0d3c60c.svg" />
+
 </p>
 
-![01-feed](https://user-images.githubusercontent.com/51727640/167925364-40b40258-414e-4b78-986e-b14dcc103450.svg)
-![02-feed](https://user-images.githubusercontent.com/51727640/167925361-a98fcf5a-c561-4d52-a406-2604b33fc348.svg)
-![03-feed](https://user-images.githubusercontent.com/51727640/167925366-cc2b4dc7-c2d7-4b80-8e58-0e4fa0d3c60c.svg)
+![01-feed](https://user-images.githubusercontent.com/51727640/167925961-6b687331-8d1f-4e24-9906-131b078c6948.png)
+![02-feed](https://user-images.githubusercontent.com/51727640/167925962-14cef2b9-9faf-42d0-9215-f648df8f0d94.png)
+![03-feed](https://user-images.githubusercontent.com/51727640/167925964-d3132f46-a119-4297-9cdd-1a89795613f4.png)
+
 
 
 ## 💻 Projeto
