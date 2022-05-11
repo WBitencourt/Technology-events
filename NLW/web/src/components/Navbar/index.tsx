@@ -10,7 +10,7 @@ import { useState } from 'react';
 export function Navbar() {
   const {isThemeDark, setIsThemeDark} = useTheme();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [sizeFontDOM, setSizeFontDOM] = useState(16);
+  const [sizeFontDOM, setSizeFontDOM] = useState(15);
 
   document.documentElement.setAttribute('style', `font-size: ${sizeFontDOM}px`);
 
