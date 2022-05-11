@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.menu-toggle {
+.menu-toggle.off {
   display: none;
 }
 
@@ -18,7 +18,10 @@
 
 .on {
   display: initial;
-  justify-content: center;
+}
+
+.off {
+  display: none;
 }
 
 @media (min-width: 1024px) {

@@ -11,7 +11,7 @@ export function Navbar() {
   const {isThemeDark, setIsThemeDark} = useTheme();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  const isOn = isMenuOpen ? "on" : "";
+  const isOn = isMenuOpen ? "on" : "off";
 
   return (
     <>
@@ -20,7 +20,7 @@ export function Navbar() {
  
         <div className={`menu-toggle ${isOn}`} />
         
-        <ul className={`${isOn} hidden lg:flex flex-col lg:flex-row mt-20 lg:mt-0 z-20 items-center justify-center`}>
+        <ul className={`${isOn} lg:flex flex-col lg:flex-row mt-20 lg:mt-0 z-20 items-center justify-center`}>
           <li className="m-4 lg:m-0">
             <CustomLink 
               onClick={() => setIsMenuOpen(false)} 
