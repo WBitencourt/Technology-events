@@ -12,15 +12,15 @@ export function CustomLink({ children, to, ...props }: LinkProps) {
 
   const styles = `${
     match ? 
-    "text-white font-bold" 
+    "text-[#09090A] dark:text-white lg:text-white font-bold" 
     : 
-    "text-[#a8a8b3] hover:text-white font-normal"
+    "text-[#09090A] dark:text-[#a8a8b3] lg:text-[#a8a8b3] lg:hover:text-white font-normal"
   }`
 
   return (
     <div>
       <Link
-        className={`text-base py-2 pr-4 pl-3 transition duration-700 ${styles}`}
+        className={`flex items-center justify-center text-base py-2 pr-4 pl-3 transition duration-700 ${styles}`}
         to={to}
         {...props}
       >

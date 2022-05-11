@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-toggle {
+  display: none;
+}
+
+.menu-toggle.on {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+  @apply bg-white dark:bg-[#09090A];
+}
+
+.on {
+  display: initial;
+  justify-content: center;
+}
+
+@media (min-width: 1024px) {
+  .menu-toggle.on {
+    display: none;
+  }
+}
