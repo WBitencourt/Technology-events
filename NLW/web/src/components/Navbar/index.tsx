@@ -10,14 +10,35 @@ import { useState } from 'react';
 export function Navbar() {
   const {isThemeDark, setIsThemeDark} = useTheme();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [sizeFontDOM, setSizeFontDOM] = useState(16);
+
+  document.documentElement.setAttribute('style', `font-size: ${sizeFontDOM}px`);
 
   const isOn = isMenuOpen ? "on" : "off";
+
+  function upPixelDOM()
+  {
+    document.documentElement.removeAttribute('style');
+
+    setSizeFontDOM(sizeFontDOM + 1);
+
+    console.log(sizeFontDOM);    
+  } 
+
+  function downPixelDOM()
+  {
+    document.documentElement.removeAttribute('style');
+
+    setSizeFontDOM(sizeFontDOM - 1);
+
+    console.log(sizeFontDOM);    
+  } 
 
   return (
     <>
       <nav className="bg-[#09090A] border-gray-800 border-b-[0.01rem] px-2 sm:px-4 py-5 h-20 rounded flex flex-row justify-between">
         <img src={nlwReturnLogo} className="h-auto pl-3 z-20" alt="Logo NLW return" /> 
- 
+
         <div className={`menu-toggle ${isOn}`} />
         
         <ul className={`${isOn} lg:flex flex-col lg:flex-row mt-20 lg:mt-0 z-20 items-center justify-center`}>
@@ -48,6 +69,13 @@ export function Navbar() {
               to='/feedbacks'>
               Feedbacks
             </CustomLink>
+          </li>
+          <li className="m-4 lg:m-0 hidden lg:flex">
+            |
+          </li>
+          <li className="m-4 lg:m-0 flex items-center justify-center">
+            <button className="ml-5 mr-2 font-bold" onClick={upPixelDOM}>A+</button>
+            <button className="ml-2 mr-5 font-bold" onClick={downPixelDOM}>A-</button>
           </li>
           <li className="m-4 lg:m-0 flex items-center justify-center">
             <Toggle checked={isThemeDark} onChange={setIsThemeDark} />

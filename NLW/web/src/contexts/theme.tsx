@@ -1,4 +1,5 @@
 import React, {createContext, useState, useEffect, useContext} from 'react';
+import usePersistedState from '../utils/usePersistedState';
 //import AsyncStorage from '@react-native-async-storage/async-storage';
 
 interface ThemeContextData {
@@ -10,22 +11,7 @@ interface ThemeContextData {
 const AuthContext = createContext<ThemeContextData>({} as ThemeContextData);
 
 export const ThemeProvider = ({children}: any) => {
-  const [isThemeDark, setIsThemeDark] = useState<boolean>(true)
-  const [loading, setLoading] = useState<boolean>(true);
-
-  // useEffect(() => {
-  //   async function loadStoragedData() {
-  //     const storageUser = await AsyncStorage.getItem('@RNAuth:user');
-  //     const storageToken = await AsyncStorage.getItem('@RNAuth:token');
-
-  //       setUser(JSON.parse(storageUser));
-  //     }
-
-  //     setLoading(false);
-  //   }
-
-  //   loadStoragedData();
-  // }, []);
+  const [isThemeDark, setIsThemeDark] = usePersistedState<boolean>('themeDark', true)
 
   if(isThemeDark) {
     document.documentElement.classList.add('dark');
@@ -33,7 +19,7 @@ export const ThemeProvider = ({children}: any) => {
   else {
     document.documentElement.classList.remove('dark');
   }
-
+ 
   return (
     <AuthContext.Provider
       value={{isThemeDark, setIsThemeDark}}>
