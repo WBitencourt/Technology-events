@@ -6,6 +6,8 @@
   <img alt="NLW Returnn ediçao 08" src="https://user-images.githubusercontent.com/51727640/167922155-8f18c6ae-e221-4a54-b9eb-d2358f739937.svg" />
 </p>
 
+![Capa](https://user-images.githubusercontent.com/51727640/167926346-1df2d26c-47e6-4e3f-abb9-322b1e7120b4.svg)
+
 ![01-feed](https://user-images.githubusercontent.com/51727640/167926128-bd475490-b850-4cf0-abd5-8378bcf2d4f2.png)
 ![02-feed](https://user-images.githubusercontent.com/51727640/167926130-8d50394a-8ffc-46c3-b9e6-2d4e893b9b65.png)
 ![03-feed](https://user-images.githubusercontent.com/51727640/167926132-c6da665f-65c2-447f-862a-1772c7538943.png)
