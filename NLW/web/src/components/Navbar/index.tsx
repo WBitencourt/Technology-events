@@ -73,7 +73,7 @@ export function Navbar() {
           <li className="m-4 lg:m-0 hidden lg:flex">
             |
           </li>
-          <li className="m-4 lg:m-0 flex items-center justify-center">
+          <li className="m-4 lg:m-0 flex items-center justify-center text-[#09090A] dark:text-[#a8a8b3] lg:text-[#a8a8b3]">
             <button className="ml-5 mr-2 font-bold" onClick={upPixelDOM}>A+</button>
             <button className="ml-2 mr-5 font-bold" onClick={downPixelDOM}>A-</button>
           </li>

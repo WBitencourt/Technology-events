@@ -33,7 +33,7 @@ export function Feedbacks() {
     <div className="flex flex-wrap justify-evenly text-sm ">
       {Object.entries(feedbacks).map(([key, value]) => {
         return (
-          <div className="p-3 min-w-[380px] max-w-auto h-auto my-3 mx-2 rounded-xl bg-zinc-100 dark:bg-zinc-900 hover:border-brand-500 border-2 border-zinc-300 dark:border-zinc-600 flex transition-colors">
+          <div className="p-3 min-w-[380px] max-w-auto h-auto my-3 mx-2 rounded-xl bg-zinc-100 dark:bg-zinc-900 hover:border-brand-500 hover:dark:border-brand-500 border-2 border-zinc-300 dark:border-zinc-600 flex transition-colors">
             <ul key={key} className="w-full text-zinc-900 dark:text-zinc-300">
               <li className="flex my-1 items-center">
                 <Key className="mr-2 text-brand-500" /> {value.id}
