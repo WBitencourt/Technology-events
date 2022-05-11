@@ -2,9 +2,7 @@
   <img alt="Rocketseat" height="80" title="Rocketseat" src="https://avatars.githubusercontent.com/u/28929274?s=200&amp;v=4" />
 </h1>
 
-<p align="center">
- ![nlw08](https://user-images.githubusercontent.com/51727640/167922155-8f18c6ae-e221-4a54-b9eb-d2358f739937.svg)
-</p>
+![nlw08](https://user-images.githubusercontent.com/51727640/167922155-8f18c6ae-e221-4a54-b9eb-d2358f739937.svg)
 
 ![Capa](https://user-images.githubusercontent.com/51727640/167922274-e66786a7-b385-4027-9c1e-0fe1b8131a9f.svg)
 
