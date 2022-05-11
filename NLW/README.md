@@ -6,17 +6,9 @@
   <img alt="NLW Returnn ediçao 08" src="https://user-images.githubusercontent.com/51727640/167922155-8f18c6ae-e221-4a54-b9eb-d2358f739937.svg" />
 </p>
 
-![Capa](https://user-images.githubusercontent.com/51727640/167922274-e66786a7-b385-4027-9c1e-0fe1b8131a9f.svg)
-
-<p style="display: flex; widht: 100vw; height:auto;">
-
-</p>
-
-![01-feed](https://user-images.githubusercontent.com/51727640/167925961-6b687331-8d1f-4e24-9906-131b078c6948.png)
-![02-feed](https://user-images.githubusercontent.com/51727640/167925962-14cef2b9-9faf-42d0-9215-f648df8f0d94.png)
-![03-feed](https://user-images.githubusercontent.com/51727640/167925964-d3132f46-a119-4297-9cdd-1a89795613f4.png)
-
-
+![01-feed](https://user-images.githubusercontent.com/51727640/167926128-bd475490-b850-4cf0-abd5-8378bcf2d4f2.png)
+![02-feed](https://user-images.githubusercontent.com/51727640/167926130-8d50394a-8ffc-46c3-b9e6-2d4e893b9b65.png)
+![03-feed](https://user-images.githubusercontent.com/51727640/167926132-c6da665f-65c2-447f-862a-1772c7538943.png)
 
 ## 💻 Projeto
 Aplicativo desenvolvido inicialmente pela Equipe Rocketseat que tem o objetivo de criar um Widget para que o usuário deixe seu feedback referente a página que esta acessando.
