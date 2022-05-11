@@ -3,13 +3,10 @@
 </h1>
 
 <p align="center">
- <img src="" alt="NLW 08" />
+ ![nlw08](https://user-images.githubusercontent.com/51727640/167922155-8f18c6ae-e221-4a54-b9eb-d2358f739937.svg)
 </p>
 
-![nlw08](https://user-images.githubusercontent.com/51727640/167922155-8f18c6ae-e221-4a54-b9eb-d2358f739937.svg)
-
-<img src="![Capa](https://user-images.githubusercontent.com/51727640/167922274-e66786a7-b385-4027-9c1e-0fe1b8131a9f.svg)" alt="Capa do projeto"/>
-
+![Capa](https://user-images.githubusercontent.com/51727640/167922274-e66786a7-b385-4027-9c1e-0fe1b8131a9f.svg)
 
 ## 💻 Projeto
 Aplicativo desenvolvido inicialmente pela Equipe Rocketseat que tem o objetivo de criar um Widget para que o usuário deixe seu feedback referente a página que esta acessando.
