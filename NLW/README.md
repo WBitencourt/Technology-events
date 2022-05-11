@@ -76,6 +76,7 @@ Dessa forma, fiz algo próximo e adicionei o widget para simular a pagina.
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912516166573468). 
 É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+<br />
 Desenvolvido por Ilana Mallak(@ilanamallak).
 
 
