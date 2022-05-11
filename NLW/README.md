@@ -12,9 +12,13 @@
 Aplicativo desenvolvido inicialmente pela Equipe Rocketseat que tem o objetivo de criar um Widget para que o usuário deixe seu feedback referente a página que esta acessando.
 
 ## 💻 Objetivo pessoal
-Ao participar da edição 08 do NLW, fui desafiado pela Rocketseat a extender o projeto original adicionando novas funcionalidades. 
-Pensei em usar esse projeto em algum local que realmente faria sentido, então percebi que o site do NLW não continha essa funcionalidade.
-Dessa forma, fiz algo próximo e adicionei o widget para simular a pagina.
+Ao participar da edição 08 do NLW, fui desafiado pela Rocketseat a extender o projeto original adicionando novas funcionalidades.
+<br />
+Depois de muito aprendizado no evento decidi jogar o chapeu do outro lado e ir buscar (Frases de Diego .com haha). 
+<br />
+Pensei em usar esse projeto em algum local que realmente faria sentido, percebi que o site do NLW não continha essa funcionalidade, então o fiz. 😆😅
+<br />
+Claro, tentei simular o mais próximo dentro do tempo disponível algo parecido com a página do NLW. E valeu a pena, aprendi mais ferramentas e formas de se desenvolver uma aplicação, todo o aprendizado foi listado nos tópicos abaixo.
 
 ## 🔖 Layout
 
@@ -23,6 +27,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 <br />
 <br />
 Acesse o front-end a partir [desse link](https://nlw-return-impulse-web-woad-eight.vercel.app/). 
+<br />
+<br />
 Acesse o back-end a partir [desse link](https://technology-course-production.up.railway.app/). 
 
 ## ✨ Tecnologias
@@ -112,6 +118,6 @@ DATABASE_URL=
 
 ## 📄 Licença
 
-Esse projeto foi desenvolvido inicialmente pelo Rocketseat e disponibilizado publicamente para modificações.
+Esse projeto foi desenvolvido inicialmente pela Rocketseat e disponibilizado publicamente para modificações.
 
 <br />
