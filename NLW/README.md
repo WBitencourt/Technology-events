@@ -11,7 +11,7 @@
 ## 💻 Projeto
 Aplicativo desenvolvido inicialmente pela Equipe Rocketseat que tem o objetivo de criar um Widget para que o usuário deixe seu feedback referente a página que esta acessando.
 
-## 💻 Objetivo pessoal
+## 🤓 Objetivo pessoal
 Ao participar da edição 08 do NLW, fui desafiado pela Rocketseat a extender o projeto original adicionando novas funcionalidades.
 <br />
 Depois de muito aprendizado no evento decidi jogar o chapeu do outro lado e ir buscar (Frases de Diego .com haha). 
