@@ -1,3 +1,3 @@
 # Technology course 🚀
 
-This repository is intended to show the projects developed within a course. Each folder is named with the project name and has a README.md file where you will be able to find more details on how it was done, the difficulties and new skills I acquired.
+This repository is intended to showcase the projects developed during programming events. Each folder is named after the corresponding event and contains a README.md file where you can find more details on how the project was executed, the challenges faced, and the new skills acquired.
