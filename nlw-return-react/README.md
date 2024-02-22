@@ -3,35 +3,35 @@
 </h1>
 
 <p align="center">
-  <img alt="NLW Returnn ediçao 08" src="https://user-images.githubusercontent.com/51727640/167922155-8f18c6ae-e221-4a54-b9eb-d2358f739937.svg" />
+  <img alt="NLW Return edition 08" src="https://user-images.githubusercontent.com/51727640/167922155-8f18c6ae-e221-4a54-b9eb-d2358f739937.svg" />
 </p>
 
-![Capa](https://user-images.githubusercontent.com/51727640/167926346-1df2d26c-47e6-4e3f-abb9-322b1e7120b4.svg)
+![Cover](https://user-images.githubusercontent.com/51727640/167926346-1df2d26c-47e6-4e3f-abb9-322b1e7120b4.svg)
 
-## 💻 Projeto
-Aplicativo desenvolvido inicialmente pela Equipe Rocketseat que tem o objetivo de criar um Widget para que o usuário deixe seu feedback referente a página que esta acessando.
+## 💻 Project
+Application initially developed by the Rocketseat Team aimed at creating a Widget for users to leave feedback about the page they are visiting.
 
-## 🤓 Objetivo pessoal
-Ao participar da edição 08 do NLW, fui desafiado pela Rocketseat a extender o projeto original adicionando novas funcionalidades.
+## 🤓 Personal Objective
+By participating in the 8th edition of NLW, I was challenged by Rocketseat to extend the original project by adding new functionalities.
 <br />
-Depois de muito aprendizado no evento decidi jogar o chapeu do outro lado e ir buscar (Frases de Diego .com haha). 
+After a lot of learning at the event, I decided to throw my hat over the wall and go fetch it (Phrases from Diego.com haha).
 <br />
-Pensei em usar esse projeto em algum local que realmente faria sentido, percebi que o site do NLW não continha essa funcionalidade, então o fiz. 😆😅
+I thought about using this project somewhere it would really make sense, and I realized the NLW website did not have this functionality, so I did it. 😆😅
 <br />
-Claro, tentei simular o mais próximo dentro do tempo disponível algo parecido com a página do NLW. E valeu a pena, aprendi mais ferramentas e formas de se desenvolver uma aplicação, todo o aprendizado foi listado nos tópicos abaixo.
+Of course, I tried to simulate as closely as possible within the available time something similar to the NLW page. And it was worth it; I learned more tools and ways to develop an application, all the learning was listed in the topics below.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912516166573468). 
-É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+You can view the project layout through [this link](https://www.figma.com/file/0I7xmihyTotW3IvYHmVjp6/Feedback-Widget-(Community)?type=design&node-id=100%3A2114&mode=dev&t=efUGs5mJOLt8fL1y-1). 
+You must have an account on [Figma](http://figma.com/) to access it.
 <br />
 <br />
-Acesse o front-end a partir [desse link](https://nlw-return-impulse-web-woad-eight.vercel.app/). 
+Access the front-end from [this link](https://nlw-return-impulse-web-woad-eight.vercel.app/).
 <br />
 <br />
-Acesse o back-end a partir [desse link](https://technology-course-production.up.railway.app/). 
+Back-end not hosted 
 
-## ✨ Tecnologias
+## ✨ Technologies
 
 ### Front-end
 -   [ ] Figma
@@ -64,60 +64,58 @@ Acesse o back-end a partir [desse link](https://technology-course-production.up.
 ## :hammer_and_wrench: Features 
 
 ### Front-end
--   [ ] Envio de feedbacks do usuário em forma de texto e imagem.
--   [ ] Após registro de feedback, um e-mail é encaminhado ao usuário pelo back-end (Somente ambiente de desenvolvimento) .
--   [ ] Lista os feedbacks do servidor que o usuário registrou (Em caso real de uso, essa pagina deve ser melhor alocada dentro do projeto);
--   [ ] Feedbacks listados mostram dados como ID, Tipo do feedback, comentário e a screenshot registrada
--   [ ] Pagina se adapta a maioria dos dispositivos devido a responsividade da mesma
--   [ ] Permite alterar o tema da página, entre dark e light que fica salvo mesmo após recarregar a pagina.
--   [ ] Permite aumentar ou diminuir a fonte da página
--   [ ] Página default para areas do site que estejam em desenvolvimento
--   [ ] Permite o usuário navegar conforme seu contexto.
+-   [ ] User feedback submission in the form of text and image.
+-   [ ] After feedback registration, an email is forwarded to the user by the back-end (Development environment only).
+-   [ ] Lists the feedbacks from the server that the user has registered (In real use, this page should be better located within the project);
+-   [ ] Listed feedbacks show data such as ID, feedback type, comment, and the recorded screenshot
+-   [ ] Page adapts to most devices due to its responsiveness
+-   [ ] Allows changing the page theme between dark and light, which is saved even after reloading the page.
+-   [ ] Allows increasing or decreasing the page font size
+-   [ ] Default page for site areas that are under development
+-   [ ] Allows the user to navigate according to their context.
 
 ### Back-end
--   [ ] Back-end construído com base em uma aplicação REST
--   [ ] Permite registrar um feedback via método HTTP POST
--   [ ] Permite consultar os feedbacks via método HTTP GET
--   [ ] Possui testes unitários (npm run test)
--   [ ] Possui conceitos de SOLID
--   [ ] Envia e-mail a um usuário (Somente em ambiente de desenvolvimento)
--   [ ] Possui o ORM Prisma como intermediários ao fazer operações no banco de dados
--   [ ] A princípio foi desenvolvido com SQLite, posteriormente alterado para Postgresql em ambiente de desenvolvimento e produção 
--   [ ] Configurado para transpilar o código typescript para javascript, comando npm build.
+-   [ ] Back-end built on a REST application basis
+-   [ ] Allows registering feedback via HTTP POST method
+-   [ ] Allows querying feedbacks via HTTP GET method
+-   [ ] Has unit tests (npm run test)
+-   [ ] Implements SOLID concepts
+-   [ ] Sends email to a user (Development environment only)
+-   [ ] Uses the ORM Prisma as intermediaries in database operations
+-   [ ] Initially developed with SQLite, later changed to Postgresql in development and production environments
+-   [ ] Configured to transpile typescript code to javascript, command npm build.
 
-## Executando o projeto
+## Running the project
 
 ### Front-end
-Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
+Use **yarn** or **npm install** to install the project's dependencies.
+Then, start the project.
 
 ```cl
 npm run dev
 ```
 
-Lembre-se de definir no arquivo .env as configurações de acesso a seu servidor back-end.
+Remember to set in the .env file the access configurations to your back-end server.
  
  ```cl
 VITE_API_URL=http://localhost:3333/
 ```
 
 ### Back-end
-Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
+Use **yarn** or **npm install** to install the project's dependencies.
+Then, start the project.
 
 ```cl
 npm run dev
 ```
 
-Lembre-se de definir no arquivo .env as configurações do seu servidor back-end com o banco de dados, projeto esta configurado para postegresql.
+Remember to define in the .env file the configurations of your back-end server with the database, the project is configured for PostgreSQL.
  
  ```cl
 DATABASE_URL=
 ```
 
 
-## 📄 Licença
+## 📄 License
 
-Esse projeto foi desenvolvido inicialmente pela Rocketseat e disponibilizado publicamente para modificações.
-
-<br />
+This project was initially developed by
