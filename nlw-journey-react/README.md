@@ -38,7 +38,7 @@ npm run dev
 
 Now test it!
 
-- ## 📄 License
+## 📄 License
 
 This project is kept by Wendell Bitencourt. but create and development by [Rocketseat](https://www.rocketseat.com.br/)
 
