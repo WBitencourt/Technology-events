@@ -35,4 +35,12 @@ Run application;
 npm run dev
 ```
 
-- Test it!
+Now test it!
+
+- ## 📄 License
+
+This project is kept by Wendell Bitencourt. but create and development by [Rocketseat](https://www.rocketseat.com.br/)
+
+You can access the original repository [clicking here](https://github.com/rocketseat-education/nlw-journey-nodejs)
+
+<br />
