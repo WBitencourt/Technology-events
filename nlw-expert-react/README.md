@@ -1,7 +1,3 @@
-Here's the translation of the given text from Brazilian Portuguese to American English:
-
----
-
 ![Cover](./.github/cover.png)
 
 # NLW Expert (React)
