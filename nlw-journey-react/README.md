@@ -28,7 +28,7 @@ Install dependencies;
 npm install
 ```
 
-Run application server `nlw-journey-node` at PORT 3333 or change axios file in src/lib/axios.ts
+Run application server `nlw-journey-nodejs` at PORT 3333 or change axios file in src/lib/axios.ts
 
 Run application;
 
